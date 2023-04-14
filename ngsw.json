@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1679000336237,
+  "timestamp": 1681480061990,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,15 +13,14 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.5ac78a4fb69032ebcc33.js",
+        "/main.db543ca514a21833.js",
         "/manifest.webmanifest",
-        "/polyfills.8417a73e359081891848.js",
-        "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.7e5383872f0c02d6acb5.css"
+        "/polyfills.eed5bcfaab9b8b52.js",
+        "/runtime.0bf47602d5dd0858.js",
+        "/styles.a8651f9369c599ea.css"
       ],
       "patterns": [
-        "ttps:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0\\/dist\\/css\\/bootstrap\\.min\\.css",
-        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0\\/dist\\/js\\/bootstrap\\.bundle\\.min\\.js",
+        "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0\\/dist\\/css\\/bootstrap\\.min\\.css",
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/@popperjs\\/core@2\\.9\\.2\\/dist\\/umd\\/popper\\.min\\.js",
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.0\\/dist\\/js\\/bootstrap\\.min\\.js",
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.2\\.3\\/dist\\/js\\/bootstrap\\.bundle\\.min\\.js"
@@ -35,8 +34,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/Roboto-Bold.75371f53f06181df75f1.ttf",
-        "/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+        "/Roboto-Bold.8840acc77623e354.ttf",
+        "/Roboto-Regular.298c1099d7ff5993.ttf",
         "/assets/fonts/Roboto-Bold.ttf",
         "/assets/fonts/Roboto-Light.ttf",
         "/assets/fonts/Roboto-Regular.ttf",
@@ -55,8 +54,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/Roboto-Bold.75371f53f06181df75f1.ttf": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f",
-    "/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf": "84d102488738b0ebbc7a5087973effbd54c95bd5",
+    "/Roboto-Bold.8840acc77623e354.ttf": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f",
+    "/Roboto-Regular.298c1099d7ff5993.ttf": "84d102488738b0ebbc7a5087973effbd54c95bd5",
     "/assets/fonts/Roboto-Bold.ttf": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f",
     "/assets/fonts/Roboto-Light.ttf": "51dbae4543aaa10096e344e48fcffe468bd314a9",
     "/assets/fonts/Roboto-Regular.ttf": "84d102488738b0ebbc7a5087973effbd54c95bd5",
@@ -70,12 +69,12 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/img/logo_formularios.png": "c99c11c0786506293481847120ea9c35283fc899",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "b9e917a31816ffb1f84de52063d15c6a58a4bd51",
-    "/main.5ac78a4fb69032ebcc33.js": "ef7e6da61f0c3f0d0167941275c82acd93b059d2",
-    "/manifest.webmanifest": "cc9a61c59d4999a45f24094842be6e79aa4ac64c",
-    "/polyfills.8417a73e359081891848.js": "28f66ad77936ef7318027a4b4f432535bc5c9b2e",
-    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.7e5383872f0c02d6acb5.css": "362ab7ae369231fb2eb9c2507319c2fe0351ec9e"
+    "/index.html": "f22d04ca9db2ff3da5c7eff271fd88e86dcc5a84",
+    "/main.db543ca514a21833.js": "daafbd74f6bd39b80f176822e65070fcb169c777",
+    "/manifest.webmanifest": "53d3a4351fb28ec347cea3a3887669a0d770025c",
+    "/polyfills.eed5bcfaab9b8b52.js": "06b4fedb98a7c9ebaaba451806e69a6602c06487",
+    "/runtime.0bf47602d5dd0858.js": "262ae70419b8da834fa08b7607946a8a2df7d394",
+    "/styles.a8651f9369c599ea.css": "7018aeb0d9bdee269ded758697b5605c703aeae8"
   },
   "navigationUrls": [
     {
